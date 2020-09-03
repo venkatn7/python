@@ -3,7 +3,7 @@
 This repository will contain python scripts related to network automation or usefull to network engineers.
 
 
-For more details see (https://guides.github.com/venkatn7).
+For more details see (https://github.com/venkatn7).
 
 
 ### Support or Contact
